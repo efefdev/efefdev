@@ -41,6 +41,14 @@ Security monitoring system designed to analyze logs and detect suspicious activi
 
 ---
 
+## 📊 GitHub Activity
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=262efe)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=262efe)
+
+---
+
 ## 📬 Contact
 
 Email: hi@efealtintas.com

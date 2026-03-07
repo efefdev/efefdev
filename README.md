@@ -41,14 +41,6 @@ Security monitoring system designed to analyze logs and detect suspicious activi
 
 ---
 
-## 📊 GitHub Stats
-
-![Efe's GitHub stats](https://github-readme-stats.vercel.app/api?username=262efe&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=262efe&layout=compact)
-
----
-
 ## 📬 Contact
 
 Email: hi@efealtintas.com

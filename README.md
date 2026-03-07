@@ -1,54 +1,37 @@
 # Hi, I'm Efe 👋
 
-💻 Developer focused on backend systems, security and scalable architectures.
+💻 Backend & Security focused developer building secure and scalable systems.
 
 ---
 
-## 🌐 Website
-https://efealtintas.com
+## 🌐 Portfolio
+🌍 [efealtintas.com](https://efealtintas.com)
 
 ---
 
 ## 🔐 Interests
-- Web Security
-- Backend Development
-- System Architecture
-- Network Security
+- Web Security 🔒  
+- Backend Development ⚙️  
+- System Architecture 🏗️  
+- Network Security 🌐
 
 ---
 
 ## 🚀 Projects
-
-**AkcaVPN**  
-Security testing and analysis of VPN infrastructure.
-
-**E-Commerce Website**  
-Full-stack e-commerce platform with product management and payment system.
-
-**SOC Log Monitoring System**  
-Security monitoring system designed to analyze logs and detect suspicious activity.
+- **[AkcaVPN](https://akcavpn.com)** – VPN infrastructure security testing  
+- **E-Commerce Website** – Full-stack e-commerce platform  
+- **SOC Log Monitoring System** – Log analysis & threat detection  
 
 ---
 
 ## 🛠 Tech Stack
-
-- Node.js
-- Python
-- PHP
-- Linux
-- REST APIs
-- SQL / Databases
-
----
-
-## 📊 GitHub Activity
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=262efe)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=262efe)
+![Node.js](https://img.shields.io/badge/Node.js-16.x-green?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-8.2-purple?style=flat-square&logo=php&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange?style=flat-square&logo=linux&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-lightgrey?style=flat-square)
 
 ---
 
 ## 📬 Contact
-
-Email: hi@efealtintas.com
+✉️ hi@efealtintas.com

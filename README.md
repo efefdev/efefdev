@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Efe 👋
 
-<!--
-**262efe/262efe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Developer focused on backend systems, security and scalable architectures.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Website
+https://efealtintas.com
+
+---
+
+## 🔐 Interests
+- Web Security
+- Backend Development
+- System Architecture
+- Network Security
+
+---
+
+## 🚀 Projects
+
+**AkcaVPN**  
+Security testing and analysis of VPN infrastructure.
+
+**E-Commerce Website**  
+Full-stack e-commerce platform with product management and payment system.
+
+**SOC Log Monitoring System**  
+Security monitoring system designed to analyze logs and detect suspicious activity.
+
+---
+
+## 🛠 Tech Stack
+
+- Node.js
+- Python
+- PHP
+- Linux
+- REST APIs
+- SQL / Databases
+
+---
+
+## 📊 GitHub Stats
+
+![Efe's GitHub stats](https://github-readme-stats.vercel.app/api?username=262efe&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=262efe&layout=compact)
+
+---
+
+## 📬 Contact
+
+Email: hi@efealtintas.com

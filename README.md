@@ -18,9 +18,9 @@
 ---
 
 ## 🚀 Projects
-- **[AkcaVPN](https://akcavpn.com)** – VPN infrastructure security testing  
-- **E-Commerce Website** – Full-stack e-commerce platform  
-- **SOC Log Monitoring System** – Log analysis & threat detection  
+- **[AkcaVPN](https://akcavpn.com)** – VPN infrastructure security testing
+- **[soc-ai-telegram-bot](https://github.com/262efe/soc-ai-telegram-bot)** – Log analysis & threat detection 
+- **E-Commerce Website** – Full-stack e-commerce platform   
 
 ---
 

@@ -30,15 +30,15 @@
   <a href="https://akcavpn.com"><img src="assets/p-akcavpn.svg" width="49%" alt="AkcaVPN — VPN infrastructure security testing"></a>
 </p>
 <p>
+  <a href="https://nobetci.efef.dev"><img src="assets/p-nobetci.svg" width="49%" alt="Nöbetçi — Self-hosted watchman for nginx servers, controlled from Telegram"></a>
   <a href="https://omusiber.org"><img src="assets/p-omusiber.svg" width="49%" alt="omusiber.org — Server setup, infrastructure and security for the OMÜ Cyber Security Community website"></a>
-  <a href="https://unihm.org"><img src="assets/p-unihm.svg" width="49%" alt="unihm.org — Platform for the Üniversite Hodri Meydan supporters' group, designed and built from scratch"></a>
 </p>
 <p>
+  <a href="https://unihm.org"><img src="assets/p-unihm.svg" width="49%" alt="unihm.org — Platform for the Üniversite Hodri Meydan supporters' group, designed and built from scratch"></a>
   <a href="https://efef.dev"><img src="assets/p-efefdev.svg" width="49%" alt="efef.dev — This portfolio"></a>
-  <a href="https://github.com/efefdev/soc-ai-telegram-bot"><img src="assets/p-soc.svg" width="49%" alt="SOC AI Telegram Bot — Log analysis & threat detection"></a>
 </p>
 
-<sub>Source code: <a href="https://github.com/efefdev/Mahzen">Mahzen</a> · <a href="https://github.com/efefdev/efefdev.github.io">efef.dev</a> · <a href="https://github.com/efefdev/soc-ai-telegram-bot">soc-ai-telegram-bot</a></sub>
+<sub>Source code: <a href="https://github.com/efefdev/Mahzen">Mahzen</a> · <a href="https://github.com/efefdev/nobetci">Nöbetçi</a> · <a href="https://github.com/efefdev/efefdev.github.io">efef.dev</a></sub>
 
 <br><br>
 

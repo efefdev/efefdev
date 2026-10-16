@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="168" viewBox="0 0 560 168">
+<defs>
+  <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#fff" stop-opacity=".07"/>
+    <stop offset="1" stop-color="#fff" stop-opacity=".02"/>
+  </linearGradient>
+  <radialGradient id="glow" cx=".15" cy="0" r="1">
+    <stop offset="0" stop-color="#6366f1" stop-opacity=".22"/>
+    <stop offset=".6" stop-color="#6366f1" stop-opacity="0"/>
+  </radialGradient>
+  <clipPath id="c"><rect width="560" height="168" rx="20"/></clipPath>
+</defs>
+<style>
+  .t { fill: none; stroke: #818cf8; stroke-width: 1.2; stroke-linecap: round; stroke-dasharray: 3 60; opacity: .5; animation: flow 6s linear infinite; }
+  @keyframes flow { to { stroke-dashoffset: -126; } }
+  @media (prefers-reduced-motion: reduce) { .t { animation: none; } }
+</style>
+<g clip-path="url(#c)">
+  <rect width="560" height="168" fill="#05050a"/>
+  <rect width="560" height="168" fill="url(#glow)"/>
+  <path class="t" d="M391,133 L391,133 L392,134 L394,135 L395,137 L397,139 L399,141 L402,143 L404,145 L407,148 L410,151 L414,154 L417,157 L421,160 L425,164 L429,167" style="animation-delay:-0.93s"/><path class="t" d="M352,60 L353,60 L354,61 L356,61 L358,62 L361,63 L363,64 L366,65 L370,66 L374,66 L378,67 L382,68 L387,69 L392,70 L397,71 L402,72 L408,72 L413,72 L419,73 L425,73 L431,72 L438,72 L444,71 L450,69 L457,68 L463,66 L469,64 L475,61 L481,58 L486,55 L492,52 L497,48 L501,44 L506,39 L510,35 L513,30 L516,25 L519,20 L521,14 L523,9" style="animation-delay:-5.06s"/><path class="t" d="M224,67 L224,67 L223,68 L221,69 L220,71 L218,73 L215,74 L213,76 L210,78 L207,81 L203,83 L199,85 L195,87 L191,89 L186,91 L181,93 L176,95 L171,96 L165,97 L160,98 L154,99 L148,99 L142,99 L136,99 L130,98 L124,97 L117,96 L111,94 L105,92 L99,90 L93,87 L87,84 L81,81 L75,78 L69,74 L63,70 L58,66 L52,62 L46,58 L40,53" style="animation-delay:-3.97s"/><path class="t" d="M115,44 L114,44 L113,44 L111,43 L109,43 L106,42 L103,42 L100,41 L97,40 L93,40 L89,39 L84,38 L80,36 L75,35 L70,34 L65,32 L59,31 L54,29 L48,28 L42,26 L36,24 L29,22 L23,20 L16,18 L10,16 L3,14" style="animation-delay:-4.45s"/><path class="t" d="M505,84 L505,83 L505,81 L506,80 L507,78 L507,75 L508,72 L509,69 L509,66 L510,62 L510,58 L511,53 L511,49 L511,44 L511,39 L511,33 L511,28 L510,22 L509,17 L508,11 L506,5" style="animation-delay:-1.02s"/><path class="t" d="M212,148 L211,148 L210,147 L208,146 L206,145 L204,144 L202,142 L199,141 L196,139 L193,137 L189,134 L185,132 L181,129 L177,127 L173,124 L169,120 L164,117 L159,114 L154,110 L149,106 L144,102 L139,98 L134,94 L129,90 L123,85 L118,81 L112,76 L106,72 L101,67 L95,62 L89,57 L83,52 L76,47 L70,42 L63,38 L57,33 L50,28 L43,23 L36,19 L29,14" style="animation-delay:-2.63s"/><path class="t" d="M130,77 L130,77 L128,76 L127,75 L125,74 L123,73 L120,71 L117,69 L114,68 L111,66 L107,63 L104,61 L99,59 L95,56 L91,53 L86,51 L81,48 L76,45 L71,42 L65,39 L60,36 L54,32 L48,29 L42,26 L36,23 L29,20 L23,16 L16,13 L9,10 L2,7" style="animation-delay:-4.64s"/><path class="t" d="M297,127 L297,128 L296,129 L295,131 L294,132 L293,135 L291,137 L289,140 L287,142 L284,145 L281,148 L278,152 L275,155 L271,158 L267,161 L263,164 L259,167" style="animation-delay:-3.48s"/><path class="t" d="M422,109 L423,109 L424,109 L426,109 L429,109 L431,109 L434,108 L437,108 L441,108 L445,108 L449,107 L453,106 L458,106 L463,105 L468,103 L473,102 L478,100 L483,98 L489,96 L494,94 L500,91 L505,88 L510,84 L515,81 L520,77 L525,72 L529,68 L533,63 L537,58 L540,53 L543,47 L546,42 L548,36 L550,31 L551,25 L552,19 L553,13 L553,8 L552,2" style="animation-delay:-0.76s"/><path class="t" d="M195,55 L194,56 L193,56 L191,57 L189,58 L187,59 L184,61 L181,62 L178,63 L174,65 L171,66 L166,68 L162,69 L157,70 L152,71 L147,72 L142,73 L136,73 L130,74 L124,74 L118,73 L112,73 L106,72 L100,71 L93,70 L87,68 L81,66 L74,64 L68,62 L61,60 L55,57 L48,54 L42,51 L35,48 L28,44 L22,41 L15,37 L8,33 L1,29" style="animation-delay:-2.77s"/>
+  <rect width="560" height="168" fill="url(#glass)"/>
+</g>
+<rect x=".5" y=".5" width="559" height="167" rx="19.5" fill="none" stroke="#fff" stroke-opacity=".15"/>
+<line x1="20" y1="1.2" x2="540" y2="1.2" stroke="#fff" stroke-opacity=".18"/>
+<text x="32" y="50" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#818cf8" text-anchor="start" letter-spacing="1">MAY 2026 – PRESENT</text><text x="32" y="92" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="26" font-weight="500" fill="#fff" text-anchor="start" >Vice President</text><text x="32" y="128" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" font-weight="400" fill="#a5b4fc" text-anchor="start" >OMÜ Cyber Security Community</text>
+</svg>

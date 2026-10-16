@@ -1,37 +1,63 @@
-# Hi, I'm Efe 👋
+<a href="https://efef.dev"><img src="assets/banner.svg" width="100%" alt="Hi, I'm Efe — Backend & Security Engineer. Building systems by first thinking about how they could be broken."></a>
 
-💻 Backend & Security focused developer building secure and scalable systems.
+<p align="center">
+  <a href="https://efef.dev"><img src="assets/btn-site.svg" height="48" alt="Portfolio: efef.dev"></a>
+  &nbsp;
+  <a href="mailto:hi@efef.dev"><img src="assets/btn-mail.svg" height="48" alt="Email: hi@efef.dev"></a>
+</p>
 
----
+<br>
 
-## 🌐 Portfolio
-🌍 [efealtintas.com](https://efealtintas.com)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-currently-dark.svg">
+  <img src="assets/h-currently-light.svg" height="40" alt="Currently">
+</picture>
 
----
+<p>
+  <img src="assets/role-akca.svg" width="49%" alt="Founding Engineer, Security @ Akca Network — Dec 2025 to present">
+  <img src="assets/role-omusiber.svg" width="49%" alt="Vice President @ OMÜ Cyber Security Community — May 2026 to present">
+</p>
 
-## 🔐 Interests
-- Web Security 🔒  
-- Backend Development ⚙️  
-- System Architecture 🏗️  
-- Network Security 🌐
+<br>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-projects-dark.svg">
+  <img src="assets/h-projects-light.svg" height="40" alt="Projects">
+</picture>
 
-## 🚀 Projects
-- **[AkcaVPN](https://akcavpn.com)** – VPN infrastructure security testing
-- **[soc-ai-telegram-bot](https://github.com/262efe/soc-ai-telegram-bot)** – Log analysis & threat detection 
-- **E-Commerce Website** – Full-stack e-commerce platform   
+<p>
+  <a href="https://mahzen.efef.dev"><img src="assets/p-mahzen.svg" width="49%" alt="Mahzen — Encrypted, portable vault for files, notes and passwords (AES-256-GCM + Argon2id)"></a>
+  <a href="https://akcavpn.com"><img src="assets/p-akcavpn.svg" width="49%" alt="AkcaVPN — VPN infrastructure security testing"></a>
+</p>
+<p>
+  <a href="https://omusiber.org"><img src="assets/p-omusiber.svg" width="49%" alt="omusiber.org — Server setup, infrastructure and security for the OMÜ Cyber Security Community website"></a>
+  <a href="https://unihm.org"><img src="assets/p-unihm.svg" width="49%" alt="unihm.org — Platform for the Üniversite Hodri Meydan supporters' group, designed and built from scratch"></a>
+</p>
+<p>
+  <a href="https://efef.dev"><img src="assets/p-efefdev.svg" width="49%" alt="efef.dev — This portfolio"></a>
+  <a href="https://github.com/efefdev/soc-ai-telegram-bot"><img src="assets/p-soc.svg" width="49%" alt="SOC AI Telegram Bot — Log analysis & threat detection"></a>
+</p>
 
----
+<sub>Source code: <a href="https://github.com/efefdev/Mahzen">Mahzen</a> · <a href="https://github.com/efefdev/efefdev.github.io">efef.dev</a> · <a href="https://github.com/efefdev/soc-ai-telegram-bot">soc-ai-telegram-bot</a></sub>
 
-## 🛠 Tech Stack
-![Node.js](https://img.shields.io/badge/Node.js-16.x-green?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-8.2-purple?style=flat-square&logo=php&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange?style=flat-square&logo=linux&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-lightgrey?style=flat-square)
+<br><br>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-stack-dark.svg">
+  <img src="assets/h-stack-light.svg" height="40" alt="Tech Stack">
+</picture>
 
-## 📬 Contact
-✉️ hi@efealtintas.com
+<img src="assets/stack.svg" width="100%" alt="TypeScript · Python · Swift · Node.js · Next.js · PostgreSQL · Redis · Docker · Linux · Cloudflare">
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/h-contact-dark.svg">
+  <img src="assets/h-contact-light.svg" height="40" alt="Contact">
+</picture>
+
+<p>
+  <a href="mailto:hi@efef.dev"><img src="assets/btn-mail.svg" height="48" alt="Email: hi@efef.dev"></a>
+  &nbsp;
+  <a href="https://efef.dev"><img src="assets/btn-site.svg" height="48" alt="Portfolio: efef.dev"></a>
+</p>

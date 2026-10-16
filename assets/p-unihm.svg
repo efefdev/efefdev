@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="320" viewBox="0 0 560 320">
+<defs>
+  <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#fff" stop-opacity=".07"/>
+    <stop offset="1" stop-color="#fff" stop-opacity=".02"/>
+  </linearGradient>
+  <radialGradient id="glow" cx=".15" cy="0" r="1">
+    <stop offset="0" stop-color="#6366f1" stop-opacity=".22"/>
+    <stop offset=".6" stop-color="#6366f1" stop-opacity="0"/>
+  </radialGradient>
+  <clipPath id="c"><rect width="560" height="320" rx="20"/></clipPath>
+</defs>
+<style>
+  .t { fill: none; stroke: #818cf8; stroke-width: 1.2; stroke-linecap: round; stroke-dasharray: 3 60; opacity: .5; animation: flow 6s linear infinite; }
+  @keyframes flow { to { stroke-dashoffset: -126; } }
+  @media (prefers-reduced-motion: reduce) { .t { animation: none; } }
+</style>
+<g clip-path="url(#c)">
+  <rect width="560" height="320" fill="#05050a"/>
+  <rect width="560" height="320" fill="url(#glow)"/>
+  <path class="t" d="M22,174 L22,173 L23,172 L25,171 L26,169 L28,167 L30,165 L32,163 L35,160 L38,157 L40,154 L43,151 L46,147 L49,143 L52,139 L55,135 L58,130 L61,125 L64,120 L67,115 L70,109 L72,103 L74,97 L76,91 L78,85 L79,79 L80,72 L81,66 L81,59 L81,53 L80,46 L79,40 L78,34 L76,28 L74,22 L72,16 L69,11 L65,6 L62,1" style="animation-delay:-1.26s"/><path class="t" d="M91,250 L91,250 L93,249 L94,248 L96,247 L98,246 L101,244 L104,243 L107,241 L110,239 L114,237 L117,234 L121,232 L125,229 L130,226 L134,222 L138,219 L142,215 L147,211 L151,206 L155,202 L159,197 L163,192 L167,187 L170,181 L173,175 L176,169 L179,163 L181,157 L183,151 L184,144 L186,138 L186,131 L187,125 L186,119 L186,112 L185,106 L183,100 L182,94 L179,89" style="animation-delay:-4.11s"/><path class="t" d="M527,166 L528,166 L529,165 L531,164 L533,163 L535,162 L538,161 L541,159 L544,158 L547,156 L551,153 L555,151 L559,149" style="animation-delay:-2.35s"/><path class="t" d="M57,184 L58,183 L59,182 L60,181 L61,179 L63,177 L65,175 L68,173 L70,170 L72,167 L75,164 L78,160 L81,157 L84,153 L87,148 L90,144 L92,139 L95,134 L98,129 L100,123 L103,118 L105,112 L106,106 L108,100 L109,93 L110,87 L111,81 L111,74 L110,68 L110,61 L109,55 L107,49 L105,43 L103,37 L101,32 L98,26 L94,21 L91,16 L87,12 L83,7" style="animation-delay:-4.58s"/><path class="t" d="M302,230 L302,230 L300,230 L298,230 L296,230 L294,230 L291,230 L287,230 L284,230 L280,230 L276,230 L271,230 L267,229 L262,228 L257,227 L252,226 L246,225 L241,223 L236,221 L230,219 L225,217 L219,214 L214,211 L208,207 L203,204 L198,200 L192,196 L187,191 L182,187 L178,182 L173,177 L168,171 L164,166 L160,160 L155,154 L151,148 L147,142 L143,135 L139,129 L135,122" style="animation-delay:-0.73s"/><path class="t" d="M286,205 L285,205 L284,205 L282,205 L280,205 L277,205 L274,205 L271,204 L268,204 L264,204 L260,203 L255,203 L251,202 L246,201 L241,200 L236,198 L231,196 L225,194 L220,192 L214,190 L209,187 L203,184 L198,181 L193,177 L187,174 L182,170 L177,165 L171,161 L166,156 L161,151 L156,146 L151,141 L146,135 L142,130 L137,124 L132,118 L127,112 L123,106 L118,99 L113,93" style="animation-delay:-5.91s"/><path class="t" d="M465,167 L466,167 L467,167 L469,168 L471,168 L473,169 L476,169 L480,169 L483,170 L487,170 L491,171 L496,171 L500,171 L505,171 L511,172 L516,172 L522,171 L527,171 L533,171 L539,170 L546,169 L552,168 L558,167" style="animation-delay:-2.13s"/><path class="t" d="M230,303 L229,302 L229,301 L228,299 L228,297 L227,294 L226,292 L225,288 L225,285 L223,281 L222,277 L221,273 L220,268 L219,263 L217,258 L216,253 L215,248 L213,242 L212,236 L210,230 L209,224 L207,217 L205,211 L203,204 L201,197 L199,191 L197,184 L195,177 L193,170 L190,162 L188,155 L185,148 L182,141 L178,133 L175,126 L172,119 L168,112 L164,105 L160,98 L155,91" style="animation-delay:-0.34s"/>
+  <rect width="560" height="320" fill="url(#glass)"/>
+</g>
+<rect x=".5" y=".5" width="559" height="319" rx="19.5" fill="none" stroke="#fff" stroke-opacity=".15"/>
+<line x1="20" y1="1.2" x2="540" y2="1.2" stroke="#fff" stroke-opacity=".18"/>
+<text x="32" y="50" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#818cf8" text-anchor="start" letter-spacing="1">WEB · 2026</text><text x="32" y="88" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="28" font-weight="500" fill="#fff" text-anchor="start" letter-spacing="-0.5">unihm.org</text><text x="32" y="128" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" font-weight="400" fill="#e5e7eb" text-anchor="start" >Platform for the Üniversite Hodri Meydan supporters'</text><text x="32" y="156" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" font-weight="400" fill="#e5e7eb" text-anchor="start" >group, designed and built from scratch.</text><rect x="32.0" y="214" width="84.4" height="26" rx="13" fill="#fff" fill-opacity=".06" stroke="#fff" stroke-opacity=".12"/><text x="74.2" y="231.7" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="13" font-weight="400" fill="#d1d5db" text-anchor="middle" >Next.js</text><text x="32" y="290" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" font-weight="500" fill="#a5b4fc" text-anchor="start" >unihm.org ↗</text>
+</svg>

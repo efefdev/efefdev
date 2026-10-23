@@ -1,4 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="56" viewBox="0 0 600 56" role="img" aria-label="Currently">
-<g transform="translate(2,14) scale(1.15)" fill="none" stroke="#4f46e5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="7" width="20" height="14" rx="2"/><path d="M16 21V5a2 2 0 00-2-2h-4a2 2 0 00-2 2v16"/></g>
-<text x="40" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#4f46e5" text-anchor="start" letter-spacing="-0.75">Currently</text>
-</svg>
